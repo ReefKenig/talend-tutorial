@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_CwOgcFG6EfG0AOGGrerZeg" label="TALEND_TUTORIAL" description="" language="java" technicalLabel="TALEND_TUTORIAL" author="_CwOgcVG6EfG0AOGGrerZeg" productVersion="Talend Real-time Big Data Platform-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ReefKenig/talend-tutorial&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <migrationTask xmi:id="_CxcBYFG6EfG0AOGGrerZeg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_CwOgcVG6EfG0AOGGrerZeg" login="reef.kenig@qlik.co.il" firstName="Reef" lastName="Kenig" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
