@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_OM1yIFOFEfGbiukAIGAz7g" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_OM1yIVOFEfGbiukAIGAz7g" comment="" name="DownloadsDir" prompt="DownloadsDir?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C:/Users/ReefKenig/Downloads/&quot;"/>
+</talendfile:ContextType>

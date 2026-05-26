@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_GJXFkVdDEfGbiukAIGAz7g" name="Games_Input" dataPackage="_GJXFkldDEfGbiukAIGAz7g" Server="Localhost 127.0.0.1" FilePath="C:/Users/ReefKenig/Downloads/map_exercise_games.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_GJXFkldDEfGbiukAIGAz7g" name="default" dataManager="_GJXFkVdDEfGbiukAIGAz7g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_GJXFk1dDEfGbiukAIGAz7g" id="_0nRu4FdCEfGbiukAIGAz7g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFlFdDEfGbiukAIGAz7g" label="game_id" length="-1" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFlVdDEfGbiukAIGAz7g" label="title" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFlldDEfGbiukAIGAz7g" label="genre" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFl1dDEfGbiukAIGAz7g" label="release_year" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFmFdDEfGbiukAIGAz7g" label="base_price" length="-1" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_GJXFmVdDEfGbiukAIGAz7g" label="studio_id" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

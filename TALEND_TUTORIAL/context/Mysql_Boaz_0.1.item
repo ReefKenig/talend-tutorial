@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_PJ4AQDbfEfCMwLpL9vT4Xg" confirmationNeeded="false" hide="false" name="External">
+    <contextParameter xmi:id="_PJ4AQTbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Server" prompt="Mysql_Boaz_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="51.16.221.35"/>
+    <contextParameter xmi:id="_PJ4AQjbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Password" prompt="Mysql_Boaz_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:Q1BEiBk5SQkW4NnQmZ6MqUYHsrSKR+cHHXq192AqJNNmTKa67CRO"/>
+    <contextParameter xmi:id="_PJ4AQzbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_AdditionalParams" prompt="Mysql_Boaz_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_PJ4ARDbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Database" prompt="Mysql_Boaz_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="training"/>
+    <contextParameter xmi:id="_PJ4ARTbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Login" prompt="Mysql_Boaz_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_PJ4ARjbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Port" prompt="Mysql_Boaz_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_PJ4ARzbfEfCMwLpL9vT4Xg" confirmationNeeded="false" hide="false" name="internal">
+    <contextParameter xmi:id="_PJ4ASDbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Server" prompt="Mysql_Boaz_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="51.16.221.35"/>
+    <contextParameter xmi:id="_PJ4ASTbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Password" prompt="Mysql_Boaz_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:D9Kj7oSj8fqh/IZaaHhk2ksjNTsd7n1JRIekCoLyZvSEspvxal+y"/>
+    <contextParameter xmi:id="_PJ4ASjbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_AdditionalParams" prompt="Mysql_Boaz_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_PJ4ASzbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Database" prompt="Mysql_Boaz_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="training"/>
+    <contextParameter xmi:id="_PJ4ATDbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Login" prompt="Mysql_Boaz_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_PJ4ATTbfEfCMwLpL9vT4Xg" comment="" name="Mysql_Boaz_Port" prompt="Mysql_Boaz_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+</xmi:XMI>

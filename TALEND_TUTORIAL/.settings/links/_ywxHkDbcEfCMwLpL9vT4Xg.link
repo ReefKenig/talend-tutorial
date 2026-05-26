@@ -1,0 +1,48 @@
+{
+  "itemId" : "_ywxHkDbcEfCMwLpL9vT4Xg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_PJlFUDbfEfCMwLpL9vT4Xg",
+    "parameterList" : [ {
+      "id" : "_PJ4AQTbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Server"
+    }, {
+      "id" : "_PJ4AQjbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Password"
+    }, {
+      "id" : "_PJ4AQzbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_AdditionalParams"
+    }, {
+      "id" : "_PJ4ARDbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Database"
+    }, {
+      "id" : "_PJ4ARTbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Login"
+    }, {
+      "id" : "_PJ4ARjbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Port"
+    } ]
+  }, {
+    "contextName" : "External",
+    "repoId" : "_PJlFUDbfEfCMwLpL9vT4Xg",
+    "parameterList" : [ {
+      "id" : "_PJ4AQTbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Server"
+    }, {
+      "id" : "_PJ4AQjbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Password"
+    }, {
+      "id" : "_PJ4AQzbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_AdditionalParams"
+    }, {
+      "id" : "_PJ4ARDbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Database"
+    }, {
+      "id" : "_PJ4ARTbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Login"
+    }, {
+      "id" : "_PJ4ARjbfEfCMwLpL9vT4Xg",
+      "name" : "Mysql_Boaz_Port"
+    } ]
+  } ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_u8OSAFHbEfGGCZbb56nxKQ" name="Video_Game_Training" id="_u79zUFHbEfGGCZbb56nxKQ" dataPackage="_u8QHMFHbEfGGCZbb56nxKQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/ReefKenig/Downloads/video_games_training.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_u8QHMFHbEfGGCZbb56nxKQ" name="default" dataManager="_u8OSAFHbEfGGCZbb56nxKQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_u8QHMVHbEfGGCZbb56nxKQ" id="_g3PUUFHbEfGGCZbb56nxKQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60gFHdEfGGCZbb56nxKQ" label="Game_ID" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60gVHdEfGGCZbb56nxKQ" label="Title" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60glHdEfGGCZbb56nxKQ" label="Genre" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60g1HdEfGGCZbb56nxKQ" label="Release_Year" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60hFHdEfGGCZbb56nxKQ" label="Platform" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60hVHdEfGGCZbb56nxKQ" label="Developer" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60hlHdEfGGCZbb56nxKQ" label="Rating" length="-1" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60h1HdEfGGCZbb56nxKQ" label="Subscription_Date" length="10" talendType="id_Date" pattern="&quot;yyyy-mm-dd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zt60iFHdEfGGCZbb56nxKQ" label="Website" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

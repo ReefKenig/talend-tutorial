@@ -1,0 +1,18 @@
+{
+  "itemId" : "_tRLnQCtIEfClNNoblyCVxw",
+  "contextList" : [ {
+    "contextName" : "Linux",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "_q2NHsStKEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  }, {
+    "contextName" : "Windows",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "__bFWcCtJEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  } ]
+}

@@ -1,0 +1,149 @@
+{
+  "itemId" : "_HB7-wCTWEfCklI3ayAnnpg",
+  "contextList" : [ {
+    "contextName" : "internalServer",
+    "repoId" : "_09X-AC5VEfCKgeFwztYNYQ",
+    "parameterList" : [ {
+      "id" : "_ki7vDW3hEeqolMKugdf3NA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_ki7vCm3hEeqolMKugdf3NA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_ki7vC23hEeqolMKugdf3NA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_ki7vCW3hEeqolMKugdf3NA",
+      "name" : "mysql_Password"
+    }, {
+      "id" : "_ki7vCG3hEeqolMKugdf3NA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_ki7vDG3hEeqolMKugdf3NA",
+      "name" : "mysql_Server"
+    } ]
+  }, {
+    "contextName" : "internalServer",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "__bFWcCtJEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  }, {
+    "contextName" : "externalServer",
+    "repoId" : "_09X-AC5VEfCKgeFwztYNYQ",
+    "parameterList" : [ {
+      "id" : "_ki7vBm3hEeqolMKugdf3NA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_ki7vA23hEeqolMKugdf3NA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_ki7vBG3hEeqolMKugdf3NA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_ki7vAm3hEeqolMKugdf3NA",
+      "name" : "mysql_Password"
+    }, {
+      "id" : "_ki7vAW3hEeqolMKugdf3NA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_ki7vBW3hEeqolMKugdf3NA",
+      "name" : "mysql_Server"
+    } ]
+  }, {
+    "contextName" : "externalServer",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "__bFWcCtJEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_09X-AC5VEfCKgeFwztYNYQ",
+    "parameterList" : [ {
+      "id" : "_ki7vDW3hEeqolMKugdf3NA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_ki7vCm3hEeqolMKugdf3NA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_ki7vC23hEeqolMKugdf3NA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_ki7vCW3hEeqolMKugdf3NA",
+      "name" : "mysql_Password"
+    }, {
+      "id" : "_ki7vCG3hEeqolMKugdf3NA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_ki7vDG3hEeqolMKugdf3NA",
+      "name" : "mysql_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "__bFWcCtJEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  }, {
+    "contextName" : "Linux",
+    "repoId" : "_09X-AC5VEfCKgeFwztYNYQ",
+    "parameterList" : [ {
+      "id" : "_ki7vDW3hEeqolMKugdf3NA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_ki7vCm3hEeqolMKugdf3NA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_ki7vC23hEeqolMKugdf3NA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_ki7vCW3hEeqolMKugdf3NA",
+      "name" : "mysql_Password"
+    }, {
+      "id" : "_ki7vCG3hEeqolMKugdf3NA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_ki7vDG3hEeqolMKugdf3NA",
+      "name" : "mysql_Server"
+    } ]
+  }, {
+    "contextName" : "Linux",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "_q2NHsStKEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  }, {
+    "contextName" : "Windows",
+    "repoId" : "_09X-AC5VEfCKgeFwztYNYQ",
+    "parameterList" : [ {
+      "id" : "_ki7vDW3hEeqolMKugdf3NA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_ki7vCm3hEeqolMKugdf3NA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_ki7vC23hEeqolMKugdf3NA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_ki7vCW3hEeqolMKugdf3NA",
+      "name" : "mysql_Password"
+    }, {
+      "id" : "_ki7vCG3hEeqolMKugdf3NA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_ki7vDG3hEeqolMKugdf3NA",
+      "name" : "mysql_Server"
+    } ]
+  }, {
+    "contextName" : "Windows",
+    "repoId" : "__aBmgCtJEfClNNoblyCVxw",
+    "parameterList" : [ {
+      "id" : "__bFWcCtJEfClNNoblyCVxw",
+      "name" : "BaseDir"
+    } ]
+  } ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_hJYCsVOHEfGbiukAIGAz7g" name="p5r_combat_info" dataPackage="_hJYCslOHEfGbiukAIGAz7g" Server="Localhost 127.0.0.1" FilePath="C:/Users/ReefKenig/Downloads/p5r_combat_info.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hJYCslOHEfGbiukAIGAz7g" name="default" dataManager="_hJYCsVOHEfGbiukAIGAz7g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hJYCs1OHEfGbiukAIGAz7g" id="_ZCI10FOHEfGbiukAIGAz7g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hJYCtFOHEfGbiukAIGAz7g" label="Character_ID" length="-1" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hJYCtVOHEfGbiukAIGAz7g" label="Primary_Element" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hJYCtlOHEfGbiukAIGAz7g" label="Weapon_Type" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hJYCt1OHEfGbiukAIGAz7g" label="Ranged_Gun" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hJYCuFOHEfGbiukAIGAz7g" label="Showtime_Partner" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

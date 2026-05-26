@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="__aCNkCtJEfClNNoblyCVxw" confirmationNeeded="false" hide="false" name="Windows">
+    <contextParameter xmi:id="__bFWcCtJEfClNNoblyCVxw" comment="" name="BaseDir" prompt="BaseDir?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/StudentFiles/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_q2NHsCtKEfClNNoblyCVxw" confirmationNeeded="false" hide="false" name="Linux">
+    <contextParameter xmi:id="_q2NHsStKEfClNNoblyCVxw" comment="" name="BaseDir" prompt="BaseDir?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/home/StudentFiles/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

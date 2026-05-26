@@ -1,0 +1,79 @@
+{
+  "itemId" : "_jbgRoFNsEfGbiukAIGAz7g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_OATcwFKaEfG6Gtpwlv_EEg",
+    "parameterList" : [ {
+      "id" : "_OBE40VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Database"
+    }, {
+      "id" : "_OBE40lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_AdditionalParams"
+    }, {
+      "id" : "_OBE401KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Login"
+    }, {
+      "id" : "_OBE41FKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Server"
+    }, {
+      "id" : "_OBE41VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Port"
+    }, {
+      "id" : "_OBE41lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Password"
+    }, {
+      "id" : "_OBE411KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Schema"
+    } ]
+  }, {
+    "contextName" : "Internal",
+    "repoId" : "_OATcwFKaEfG6Gtpwlv_EEg",
+    "parameterList" : [ {
+      "id" : "_OBE42VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Database"
+    }, {
+      "id" : "_OBE42lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_AdditionalParams"
+    }, {
+      "id" : "_OBE421KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Login"
+    }, {
+      "id" : "_OBE43FKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Server"
+    }, {
+      "id" : "_OBE43VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Port"
+    }, {
+      "id" : "_OBE43lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Password"
+    }, {
+      "id" : "_OBE431KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Schema"
+    } ]
+  }, {
+    "contextName" : "External",
+    "repoId" : "_OATcwFKaEfG6Gtpwlv_EEg",
+    "parameterList" : [ {
+      "id" : "_OBE40VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Database"
+    }, {
+      "id" : "_OBE40lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_AdditionalParams"
+    }, {
+      "id" : "_OBE401KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Login"
+    }, {
+      "id" : "_OBE41FKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Server"
+    }, {
+      "id" : "_OBE41VKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Port"
+    }, {
+      "id" : "_OBE41lKaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Password"
+    }, {
+      "id" : "_OBE411KaEfG6Gtpwlv_EEg",
+      "name" : "postgres_tutorial_Schema"
+    } ]
+  } ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_OBE40FKaEfG6Gtpwlv_EEg" confirmationNeeded="false" hide="false" name="External">
+    <contextParameter xmi:id="_OBE40VKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Database" prompt="postgres_tutorial_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="training"/>
+    <contextParameter xmi:id="_OBE40lKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_AdditionalParams" prompt="postgres_tutorial_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_OBE401KaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Login" prompt="postgres_tutorial_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_OBE41FKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Server" prompt="postgres_tutorial_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_OBE41VKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Port" prompt="postgres_tutorial_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_OBE41lKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Password" prompt="postgres_tutorial_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:fU7TjagvI20NHmZgFO/BN+ZkJLIs8ncaKfRqMv+GLKH9"/>
+    <contextParameter xmi:id="_OBE411KaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Schema" prompt="postgres_tutorial_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_OBE42FKaEfG6Gtpwlv_EEg" confirmationNeeded="false" hide="false" name="Internal">
+    <contextParameter xmi:id="_OBE42VKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Database" prompt="postgres_tutorial_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="training"/>
+    <contextParameter xmi:id="_OBE42lKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_AdditionalParams" prompt="postgres_tutorial_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_OBE421KaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Login" prompt="postgres_tutorial_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_OBE43FKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Server" prompt="postgres_tutorial_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_OBE43VKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Port" prompt="postgres_tutorial_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_OBE43lKaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Password" prompt="postgres_tutorial_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:lHaUyDzzyEFH4A7p7m4bA0J3QCtabqA5QvpPQlX0xrwH"/>
+    <contextParameter xmi:id="_OBE431KaEfG6Gtpwlv_EEg" comment="" name="postgres_tutorial_Schema" prompt="postgres_tutorial_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public"/>
+  </talendfile:ContextType>
+</xmi:XMI>
